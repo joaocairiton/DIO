@@ -1,0 +1,13 @@
+C:\Users\joaoc\Desktop\codigo C#\primeiroApp_DotNet\bin\Debug\netcoreapp3.1\primeiroApp_DotNet.exe
+C:\Users\joaoc\Desktop\codigo C#\primeiroApp_DotNet\bin\Debug\netcoreapp3.1\primeiroApp_DotNet.deps.json
+C:\Users\joaoc\Desktop\codigo C#\primeiroApp_DotNet\bin\Debug\netcoreapp3.1\primeiroApp_DotNet.runtimeconfig.json
+C:\Users\joaoc\Desktop\codigo C#\primeiroApp_DotNet\bin\Debug\netcoreapp3.1\primeiroApp_DotNet.runtimeconfig.dev.json
+C:\Users\joaoc\Desktop\codigo C#\primeiroApp_DotNet\bin\Debug\netcoreapp3.1\primeiroApp_DotNet.dll
+C:\Users\joaoc\Desktop\codigo C#\primeiroApp_DotNet\bin\Debug\netcoreapp3.1\primeiroApp_DotNet.pdb
+C:\Users\joaoc\Desktop\codigo C#\primeiroApp_DotNet\obj\Debug\netcoreapp3.1\primeiroApp_DotNet.csprojAssemblyReference.cache
+C:\Users\joaoc\Desktop\codigo C#\primeiroApp_DotNet\obj\Debug\netcoreapp3.1\primeiroApp_DotNet.AssemblyInfoInputs.cache
+C:\Users\joaoc\Desktop\codigo C#\primeiroApp_DotNet\obj\Debug\netcoreapp3.1\primeiroApp_DotNet.AssemblyInfo.cs
+C:\Users\joaoc\Desktop\codigo C#\primeiroApp_DotNet\obj\Debug\netcoreapp3.1\primeiroApp_DotNet.csproj.CoreCompileInputs.cache
+C:\Users\joaoc\Desktop\codigo C#\primeiroApp_DotNet\obj\Debug\netcoreapp3.1\primeiroApp_DotNet.dll
+C:\Users\joaoc\Desktop\codigo C#\primeiroApp_DotNet\obj\Debug\netcoreapp3.1\primeiroApp_DotNet.pdb
+C:\Users\joaoc\Desktop\codigo C#\primeiroApp_DotNet\obj\Debug\netcoreapp3.1\primeiroApp_DotNet.genruntimeconfig.cache
