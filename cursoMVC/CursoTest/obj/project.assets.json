@@ -1,0 +1,124 @@
+{
+  "version": 3,
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "CursoAPI/1.0.0": {
+        "type": "project",
+        "framework": "Unsupported,Version=v0.0",
+        "compile": {
+          "bin/placeholder/CursoAPI.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/CursoAPI.dll": {}
+        }
+      },
+      "cursoMVC/1.0.0": {
+        "type": "project",
+        "framework": "Unsupported,Version=v0.0",
+        "compile": {
+          "bin/placeholder/cursoMVC.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/cursoMVC.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "CursoAPI/1.0.0": {
+      "type": "project",
+      "path": "../CursoAPI/CursoAPI.csproj",
+      "msbuildProject": "../CursoAPI/CursoAPI.csproj"
+    },
+    "cursoMVC/1.0.0": {
+      "type": "project",
+      "path": "../cursoMVC/cursoMVC.csproj",
+      "msbuildProject": "../cursoMVC/cursoMVC.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    ".NETCoreApp,Version=v3.1": [
+      "CursoAPI >= 1.0.0",
+      "cursoMVC >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\joaoc\\.nuget\\packages\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\Users\\joaoc\\source\\repos\\DIO\\cursoMVC\\CursoTest\\CursoTest.csproj",
+      "projectName": "CursoTest",
+      "projectPath": "C:\\Users\\joaoc\\source\\repos\\DIO\\cursoMVC\\CursoTest\\CursoTest.csproj",
+      "packagesPath": "C:\\Users\\joaoc\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\joaoc\\source\\repos\\DIO\\cursoMVC\\CursoTest\\obj\\",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "C:\\Users\\joaoc\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "netcoreapp3.1"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "projectReferences": {
+            "C:\\Users\\joaoc\\source\\repos\\DIO\\cursoMVC\\CursoAPI\\CursoAPI.csproj": {
+              "projectPath": "C:\\Users\\joaoc\\source\\repos\\DIO\\cursoMVC\\CursoAPI\\CursoAPI.csproj"
+            },
+            "C:\\Users\\joaoc\\source\\repos\\DIO\\cursoMVC\\cursoMVC\\cursoMVC.csproj": {
+              "projectPath": "C:\\Users\\joaoc\\source\\repos\\DIO\\cursoMVC\\cursoMVC\\cursoMVC.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "netcoreapp3.1": {
+        "targetAlias": "netcoreapp3.1",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.200-preview.20601.7\\RuntimeIdentifierGraph.json"
+      }
+    }
+  },
+  "logs": [
+    {
+      "code": "NU1201",
+      "level": "Error",
+      "message": "O projeto CursoAPI não é compatível com netcoreapp3.1 (.NETCoreApp,Version=v3.1). O projeto CursoAPI dá suporte a: net5.0 (.NETCoreApp,Version=v5.0)",
+      "libraryId": "CursoAPI",
+      "targetGraphs": [
+        ".NETCoreApp,Version=v3.1"
+      ]
+    },
+    {
+      "code": "NU1201",
+      "level": "Error",
+      "message": "O projeto cursoMVC não é compatível com netcoreapp3.1 (.NETCoreApp,Version=v3.1). O projeto cursoMVC dá suporte a: net5.0 (.NETCoreApp,Version=v5.0)",
+      "libraryId": "cursoMVC",
+      "targetGraphs": [
+        ".NETCoreApp,Version=v3.1"
+      ]
+    }
+  ]
+}
